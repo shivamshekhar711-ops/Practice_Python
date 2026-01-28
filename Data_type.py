@@ -1,0 +1,10 @@
+name="Shivam"
+age=19
+Underage=False
+marks=65.98
+raw=None
+print(type(name))
+print(type(age))
+print(type(Underage))
+print(type(marks))
+print(type(raw))
