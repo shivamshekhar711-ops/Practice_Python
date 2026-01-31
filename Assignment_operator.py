@@ -34,4 +34,31 @@ a**=b
 print(a)
 
 
+#assign
+
+c=int(input("enter 1st number : "))
+b=int(input("enter 2nd bnumber:"))
+a=c
+a+=b
+print("a=a+b" ,a)
+a=c
+a-=b
+print("a=a-b",a)
+a=c
+a*=b
+print("a=a*b" ,a)
+a=c
+a/=b
+print("a=a/b" ,a)
+a=c
+a%=b
+print("a=a%b" ,a)
+a=c
+a**=b
+print("a=a**b" ,a)
+a=c
+a//=b
+print("a=a//b" ,a)
+
+
 
