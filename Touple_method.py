@@ -20,3 +20,11 @@ print(x)
 x=(4,5,6)
 jay=x.index(4)
 print(jay)
+
+tup=(10,45,147,78,145,10)
+s=tup.index(45)
+print(s)
+
+shiv=(45,71,84,45,72,71,71)
+print(shiv.index(45))
+print(shiv.count(71))

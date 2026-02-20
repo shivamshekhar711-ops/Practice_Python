@@ -4,7 +4,7 @@ print(str.endswith("vam"))
 
 
 str1="Shivam is intelligent"
-print(str1.endswith("gent"))
+print(str1.endswith("lent"))
 
 # capitalize function
 str1= "you are bad"

@@ -6,6 +6,14 @@ print(Student_detail[0:])
 print(Student_detail[:])
 
 
+marks=[14,12,45,174]
+print(marks[0:4])
+print(marks[0:3])
+print(marks[1:4])
+print(marks[:4])
+print(marks[0:])
+print(marks[:])
+
 
 
 marks=[14,12,45,174]

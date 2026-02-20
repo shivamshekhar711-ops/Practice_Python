@@ -20,3 +20,14 @@ print(classes[0:4])
 print(classes[:])
 print(classes[-5:-1])
 print(classes[0:])
+
+
+
+classes=(12,11,10,9,8)
+print(type(classes))
+print(classes)
+print(classes[4])
+print(classes[0:4])
+print(classes[:])
+print(classes[-5:-1])
+print(classes[0:])
