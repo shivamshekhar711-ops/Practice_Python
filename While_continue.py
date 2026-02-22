@@ -8,11 +8,23 @@ while i <= 20:
 
 
 #---------------------------------------------
-
 num=[1,5,1,4,7,2,9,]
 index=0
+
 while index<=6:
     if(index==3):
         index+=1
+        continue
+    print(num[index])
+    index+=1
+
+
+num=(1,5,1,4,7,2,9,)
+index=0
+
+while index<=6:
+    if(index==1):
+        index+=1
+        continue
     print(num[index])
     index+=1

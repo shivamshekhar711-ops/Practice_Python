@@ -6,6 +6,9 @@ student={
     45:"shivam",
     "sub":["math","physics"],
     "language":("python","c","dsa")
+    
+
+
 
 }
 print(type(student))
@@ -34,4 +37,13 @@ null_dist={}
 null_dist["name"]="shivam"
 print(null_dist)
 
+
+
+student={
+    "name":"shivam",
+    "age":18,
+    "marks": [17,76,87]  
+}
+    
+print(student)
 
